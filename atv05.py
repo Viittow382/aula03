@@ -14,6 +14,6 @@ else :
         if media<4:
             print("reprovado")
         else:
-            print(f"reprovado:{media}")
+            print(f"recuperaçao:{media}")
 
-    
+
